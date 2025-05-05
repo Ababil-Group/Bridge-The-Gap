@@ -35,14 +35,14 @@ const ContactPage = () => {
               <div className="flex size-[60px] items-center justify-center rounded-full bg-[#F9FCF5]">
                 <FaPhoneAlt className="text-2xl" />
               </div>
-              <div className="space-y-1">
+              {/* <div className="space-y-1">
                 <p className="text-sm">
                   <strong>Business Phone:</strong> +880 1234 567890
                 </p>
                 <p className="text-sm">
                   <strong>Fax:</strong> +880 1234 567890
                 </p>
-              </div>
+              </div> */}
             </div>
             {/* card  */}
             <div className="flex items-center gap-3 rounded-xl border p-5">
