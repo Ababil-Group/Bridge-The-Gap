@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { FaPhoneAlt } from "react-icons/fa";
+// import { FaPhoneAlt } from "react-icons/fa";
 import { FaEnvelope } from "react-icons/fa";
 import { FaMapMarkerAlt } from "react-icons/fa";
 import { FaFacebookF } from "react-icons/fa";
@@ -59,7 +59,7 @@ const Footer = () => {
         <div>
           <h5 className="mb-5 text-xl font-semibold">Contact Us</h5>
           <ul className="space-y-2 text-sm">
-            <li>
+            {/* <li>
               <Link
                 className="inline-flex items-center justify-start gap-2 hover:underline"
                 href="tel:+8801234567890"
@@ -69,7 +69,7 @@ const Footer = () => {
                 </div>
                 +880 1234 567890
               </Link>
-            </li>
+            </li> */}
             <li>
               <Link
                 className="inline-flex items-center justify-start gap-2 hover:underline"
