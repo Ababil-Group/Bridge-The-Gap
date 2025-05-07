@@ -12,10 +12,13 @@ const Subsidiaries = () => {
         </div>
 
         <p className="mx-auto max-w-[950px] text-center text-white">
-          Detect the staffing service type you need and find your favorite team.
+          Find the right staffing support for your needs. Bridge the Gap handles
+          documents, housing, insurance, pay, and training when required. Choose
+          the best fit for your business.
+          {/* Detect the staffing service type you need and find your favorite team.
           Bridge the Gap covers required documents, stays, insurance, salaries,
           and qualifying training when needed. Pick the formula that suits your
-          business&apos;s way to success.
+          business&apos;s way to success. */}
         </p>
 
         <div className="grid grid-cols-1 gap-x-20 gap-y-[300px] md:grid-cols-2 lg:grid-cols-4">
@@ -23,12 +26,12 @@ const Subsidiaries = () => {
           <div className="card">
             <div className="card__content relative p-20 text-center font-bold transition-transform duration-1000">
               <div className="card__front absolute bottom-0 left-0 right-0 top-0 flex min-h-[350px] items-center justify-center rounded-xl bg-white p-8">
-                <h6>Corporate Venture Capital Company</h6>
+                <h6> InnoTech Ventures</h6>
               </div>
               <div className="card__back absolute bottom-0 left-0 right-0 top-0 flex min-h-[350px] flex-col items-center justify-center gap-5 rounded-xl bg-[#494949] p-8 text-white">
                 <p>
-                  Sascom is a Qatari company that invests in innovative
-                  technology solutions as well as promising startup firms.
+                  A Qatari firm investing in tech startups and innovations to
+                  drive regional growth.
                 </p>
               </div>
             </div>
@@ -37,13 +40,12 @@ const Subsidiaries = () => {
           <div className="card">
             <div className="card__content relative p-20 text-center font-bold transition-transform duration-1000">
               <div className="card__front absolute bottom-0 left-0 right-0 top-0 flex min-h-[350px] items-center justify-center rounded-xl bg-white p-8">
-                <h6>Corporate Venture Capital Company</h6>
+                <h6>LogiQ Solutions</h6>
               </div>
               <div className="card__back absolute bottom-0 left-0 right-0 top-0 flex min-h-[350px] flex-col items-center justify-center gap-5 rounded-xl bg-[#494949] p-8 text-white">
                 <p>
-                  Terhab is a Qatari CX outsourcing company providing end-to-end
-                  CX solutions by designing and operating CX moments before,
-                  during, and after-sales.
+                  Qatar-based provider of smart logistics and supply chain
+                  solutions.
                 </p>
 
                 <Link href="https://www.terhab.qa/" target="_blank">
@@ -56,13 +58,12 @@ const Subsidiaries = () => {
           <div className="card">
             <div className="card__content relative p-20 text-center font-bold transition-transform duration-1000">
               <div className="card__front absolute bottom-0 left-0 right-0 top-0 flex min-h-[350px] items-center justify-center rounded-xl bg-white p-8">
-                <h6>Logistic Solutions</h6>
+                <h6> HomeEase Solutions</h6>
               </div>
               <div className="card__back absolute bottom-0 left-0 right-0 top-0 flex min-h-[350px] flex-col items-center justify-center gap-5 rounded-xl bg-[#494949] p-8 text-white">
                 <p>
-                  Qatar Logistic Services Company (QLSC) is a logistics company
-                  that provides innovative solutions to the supply chain for all
-                  parcel sectors.
+                  UK-based home staffing service offering integrated residential
+                  solutions
                 </p>
 
                 <Link href="https://www.qlsc.com/" target="_blank">
@@ -75,12 +76,12 @@ const Subsidiaries = () => {
           <div className="card">
             <div className="card__content relative p-20 text-center font-bold transition-transform duration-1000">
               <div className="card__front absolute bottom-0 left-0 right-0 top-0 flex min-h-[350px] flex-col items-center justify-center rounded-xl bg-white p-8">
-                <h6>Innovative and Integrated Home Solutions</h6>
+                <h6> CustomerFirst Outsourcing</h6>
               </div>
               <div className="card__back absolute bottom-0 left-0 right-0 top-0 flex min-h-[350px] flex-col items-center justify-center gap-5 rounded-xl bg-[#494949] p-8 text-white">
                 <p>
-                  Raha is a home workers provider and integrated solutions for
-                  the sector of home workers.
+                  Canadian company delivering tailored customer support for
+                  seamless service.
                 </p>
 
                 <Link href="https://rahahome.com/" target="_blank">

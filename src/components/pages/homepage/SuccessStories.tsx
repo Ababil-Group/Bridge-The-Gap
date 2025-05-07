@@ -29,35 +29,54 @@ const SuccessStories = () => {
             />
           </div>
           <div className="space-y-3 text-sm">
-            <h6 className="font-bold">Bridge The Gap Success Story:</h6>
+            <h6 className="font-bold">
+              WorkForce Solutions Co. Success Story:
+            </h6>
 
             <ul className="list-disc space-y-2 pl-5">
               <li>
-                We began supplying agricultural workers in January 2019 and have
-                since grown by 450% in terms of the number of workers.
+                Founded in 2015 in Qatar, specializing in supplying skilled and
+                seasonal labor across agriculture and construction sectors.
               </li>
               <li>
-                Became a strategic partner of Qatar Agricultural Company (QAC)
-                by providing excellent service.
+                Expanded operations to the UK and Canada, growing the workforce
+                by 500% in all regions.
               </li>
               <li>
-                Achieved the highest worker satisfaction and a low worker
-                turnover rate.
+                Became a strategic partner for large-scale agricultural and
+                construction projects in Qatar and North America.
               </li>
+              <li>
+                Achieved high worker satisfaction across all regions and
+                maintained one of the lowest turnover rates in the industry.
+              </li>
+              Known for providing dependable workforce solutions that meet
+              diverse industry needs across multiple countries.
             </ul>
-            <h6 className="font-bold">Al Bandary Engineering Success Story:</h6>
+            <h6 className="font-bold">MetroBuild Developers Success Story:</h6>
 
             <ul className="list-disc space-y-2 pl-5">
               <li>
-                Completed the renovation project of Qatar University and secured
-                a new construction project in the same location.
+                Established in Qatar in 2010, specializing in urban development
+                and renovation projects.
               </li>
               <li>
-                Awarded new projects in Lusail City and Msheireb Downtown Doha.
+                Successfully completed multiple high-profile projects across
+                Qatar, including residential complexes and commercial buildings.
               </li>
               <li>
-                Expanded operations to include The Pearl, Doha, and other key
-                areas.
+                Expanded into the UK and Canada, taking on large urban
+                redevelopment projects in cities such as New York, Toronto, and
+                Vancouver.
+              </li>
+              <li>
+                Awarded key contracts in LUKil City and Msheireb Downtown Doha
+                in Qatar, and downtown areas in major U.S. cities.
+              </li>
+              <li>
+                Renowned for delivering projects on time and within budget,
+                focusing on sustainable development practices across all
+                regions.
               </li>
             </ul>
           </div>
@@ -78,34 +97,53 @@ const SuccessStories = () => {
             />
           </div>
           <div className="space-y-3 text-sm">
-            <h6 className="font-bold">Bridge The Gap Success Story:</h6>
+            <h6 className="font-bold">PrimeAgri Farms Success Story:</h6>
 
             <ul className="list-disc space-y-2 pl-5">
               <li>
-                The business started with a supply of skilled workers in
-                December 2013 and has grown into one of our strategic partners,
-                reaching 1000+ active workers today, generating millions in
-                revenue each month.
+                Founded in 2012 in Canada, PrimeAgri Farms is a major player in
+                integrated poultry and agricultural production.
               </li>
               <li>
-                Equal satisfaction levels from clients and workers, resulting in
-                one of the lowest turnovers in the industry.
+                Expanded operations to the UK and Qatar, focusing on sustainable
+                and innovative farming practices.
+              </li>
+              <li>
+                Increased poultry production by 50% in Canada and the UK,
+                implementing state-of-the-art farming technologies.
+              </li>
+              <li>
+                Opened multiple new poultry farms in Qatar, improving regional
+                food security and expanding distribution networks.
+              </li>
+              <li>
+                Known for producing high-quality poultry products and leading
+                advancements in agricultural sustainability.
               </li>
             </ul>
-            <h6 className="font-bold">Al RAWDA Farm Success Story:</h6>
+            <h6 className="font-bold">HarvestPro Industries Success Story:</h6>
 
             <ul className="list-disc space-y-2 pl-5">
               <li>
-                Al RAWDA Poultry Farms now occupies a leading position among the
-                giant projects in the Middle East.
+                Founded in 2016 in the UK, HarvestPro Industries specializes in
+                scaling food and agricultural production.
               </li>
               <li>
-                Al RAWDA Poultry Farms has grown to be one of the largest
-                integrated poultry projects in the world.
+                Expanded operations to Canada and Qatar, increasing production
+                capacity by 70% in just a few years.
               </li>
               <li>
-                Opened multiple new poultry farms and processing units in Al
-                Khor, Al Wakrah, and other regions.
+                Introduced cutting-edge agricultural technologies across North
+                America and the Middle East, improving crop yields and farming
+                efficiency.
+              </li>
+              <li>
+                Became a global leader in sustainable agriculture, distributing
+                products across North America and the Middle East.
+              </li>
+              <li>
+                Focused on innovative farming methods to meet the growing global
+                demand for food and agricultural products.
               </li>
             </ul>
           </div>
