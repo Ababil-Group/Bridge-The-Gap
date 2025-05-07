@@ -1,5 +1,5 @@
-import { Button } from "@/components/ui/button";
-import Link from "next/link";
+// import { Button } from "@/components/ui/button";
+// import Link from "next/link";
 
 const Subsidiaries = () => {
   return (
@@ -48,9 +48,9 @@ const Subsidiaries = () => {
                   solutions.
                 </p>
 
-                <Link href="https://www.terhab.qa/" target="_blank">
+                {/* <Link href="https://www.terhab.qa/" target="_blank">
                   <Button>Go To Website</Button>
-                </Link>
+                </Link> */}
               </div>
             </div>
           </div>
@@ -66,9 +66,9 @@ const Subsidiaries = () => {
                   solutions
                 </p>
 
-                <Link href="https://www.qlsc.com/" target="_blank">
+                {/* <Link href="https://www.qlsc.com/" target="_blank">
                   <Button>Go To Website</Button>
-                </Link>
+                </Link> */}
               </div>
             </div>
           </div>
@@ -84,9 +84,9 @@ const Subsidiaries = () => {
                   seamless service.
                 </p>
 
-                <Link href="https://rahahome.com/" target="_blank">
+                {/* <Link href="https://rahahome.com/" target="_blank">
                   <Button>Go To Website</Button>
-                </Link>
+                </Link> */}
               </div>
             </div>
           </div>
