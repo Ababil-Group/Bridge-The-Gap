@@ -22,7 +22,7 @@ const SuccessStories = () => {
           <div>
             <Image
               className=""
-              src="/al-bandary.webp"
+              src="/workforce.png"
               alt="Logo"
               height={300}
               width={300}
@@ -53,6 +53,24 @@ const SuccessStories = () => {
               Known for providing dependable workforce solutions that meet
               diverse industry needs across multiple countries.
             </ul>
+          </div>
+        </div>
+      ),
+    },
+    {
+      id: 2,
+      content: (
+        <div className="flex w-full flex-col items-center gap-10 lg:flex-row">
+          <div>
+            <Image
+              className=""
+              src="/metrobuild.png"
+              alt="Logo"
+              height={300}
+              width={300}
+            />
+          </div>
+          <div className="space-y-3 text-sm">
             <h6 className="font-bold">MetroBuild Developers Success Story:</h6>
 
             <ul className="list-disc space-y-2 pl-5">
@@ -84,13 +102,13 @@ const SuccessStories = () => {
       ),
     },
     {
-      id: 2,
+      id: 3,
       content: (
         <div className="flex w-full flex-col items-center gap-10 lg:flex-row">
           <div>
             <Image
               className=""
-              src="/al_rawdah_logo.png"
+              src="/primeagri .png"
               alt="Logo"
               height={300}
               width={300}
@@ -121,6 +139,24 @@ const SuccessStories = () => {
                 advancements in agricultural sustainability.
               </li>
             </ul>
+          </div>
+        </div>
+      ),
+    },
+    {
+      id: 4,
+      content: (
+        <div className="flex w-full flex-col items-center gap-10 lg:flex-row">
+          <div>
+            <Image
+              className=""
+              src="/harvestpro.png"
+              alt="Logo"
+              height={300}
+              width={300}
+            />
+          </div>
+          <div className="space-y-3 text-sm">
             <h6 className="font-bold">HarvestPro Industries Success Story:</h6>
 
             <ul className="list-disc space-y-2 pl-5">
@@ -145,77 +181,6 @@ const SuccessStories = () => {
                 Focused on innovative farming methods to meet the growing global
                 demand for food and agricultural products.
               </li>
-            </ul>
-          </div>
-        </div>
-      ),
-    },
-    {
-      id: 3,
-      content: (
-        <div className="flex w-full flex-col items-center gap-10 lg:flex-row">
-          <div>
-            <Image
-              className=""
-              src="/al-maha.png"
-              alt="Logo"
-              height={300}
-              width={300}
-            />
-          </div>
-          <div className="space-y-3 text-sm">
-            <h6 className="font-bold">Bridge The Gap Success Story:</h6>
-
-            <ul className="list-disc space-y-2 pl-5">
-              <li>
-                In March 2018, we began supplying seasonal workers and have
-                since grown by 500% in active workers.
-              </li>
-              <li>
-                Became the permanent manpower supplier for seasonal work at
-                Qatar Harvest.
-              </li>
-            </ul>
-            <h6 className="font-bold">Al Maha Success Story:</h6>
-
-            <ul className="list-disc space-y-2 pl-5">
-              <li>Al Maha&apos;s expansion is well-known across the region.</li>
-            </ul>
-          </div>
-        </div>
-      ),
-    },
-    {
-      id: 4,
-      content: (
-        <div className="flex w-full flex-col items-center gap-10 lg:flex-row">
-          <div>
-            <Image
-              className=""
-              src="/qac.jpeg"
-              alt="Logo"
-              height={300}
-              width={300}
-            />
-          </div>
-          <div className="space-y-3 text-sm">
-            <h6 className="font-bold">Bridge The Gap Success Story:</h6>
-
-            <ul className="list-disc space-y-2 pl-5">
-              <li>
-                We began supplying agricultural workers in January 2019 and have
-                since grown by 450% in terms of the number of workers.
-              </li>
-              <li>
-                Become a strategic partner of ARACO by providing excellent
-                service.
-              </li>
-            </ul>
-            <h6 className="font-bold">QAC Success Story:</h6>
-
-            <ul className="list-disc space-y-2 pl-5">
-              Increased their production by 60% and opened a new production
-              facility in Al Khor.
             </ul>
           </div>
         </div>
