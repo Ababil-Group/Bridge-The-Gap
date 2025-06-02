@@ -66,6 +66,20 @@ const ContactPage = () => {
                   <strong>Office</strong>
                 </p>
                 <p className="text-sm">
+                  Qatar - Kempinski, The Pearl, Doha, Qatar. P.O. Box 12345,
+                  Doha, Qatar.
+                </p>
+              </div>
+            </div>
+            <div className="flex items-center gap-3 rounded-xl border p-5">
+              <div className="flex size-[60px] items-center justify-center rounded-full bg-[#F9FCF5]">
+                <FaMapMarkedAlt className="text-2xl" />
+              </div>
+              <div className="space-y-1">
+                <p className="text-sm">
+                  <strong>Office</strong>
+                </p>
+                <p className="text-sm">
                   UK - 16 Holmesdale Road, Teddington, Middlesex, TW11 9LF
                 </p>
               </div>
@@ -80,20 +94,6 @@ const ContactPage = () => {
                 </p>
                 <p className="text-sm">
                   Canada - 999 Canada Pl #404, Vancouver, BC V6C 3E1, Canada
-                </p>
-              </div>
-            </div>
-            <div className="flex items-center gap-3 rounded-xl border p-5">
-              <div className="flex size-[60px] items-center justify-center rounded-full bg-[#F9FCF5]">
-                <FaMapMarkedAlt className="text-2xl" />
-              </div>
-              <div className="space-y-1">
-                <p className="text-sm">
-                  <strong>Office</strong>
-                </p>
-                <p className="text-sm">
-                  Kempinski, The Pearl, Doha, Qatar. P.O. Box 12345, Doha,
-                  Qatar.
                 </p>
               </div>
             </div>
